@@ -1,0 +1,42 @@
+.vaga{
+    border: solid 1px red;
+    width: 788px;
+    margin:10px auto;
+    text-align:left;
+    border-radius: 16px;
+    border-color: var(--cor-da-borda);
+    padding: 24px 24px 28px 24px;
+    height: 100px;
+    display: block;
+}
+.informacoes, .titulo-vaga{
+    padding: 10px;
+}
+.vaga__produtos{
+    margin-left: 256px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-family: var(--Inter);
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: var( --color-escuro);
+}
+
+.titulo-vaga{
+    font-weight: 500;
+    font-size: 18px;
+    color: var(--color-escuro);
+    line-height: 28px;
+    font-family: var(--Inter);
+
+}
+.informacoes{
+    font-weight: 500;
+    font-family: var(--Inter);
+    font-size:16px ;
+    line-height: 24px;
+    color: var(--text-color);
+}
+
+

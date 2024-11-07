@@ -1,0 +1,30 @@
+.vagas__abertas{
+    text-align: center;
+}
+
+.vagas__abertas-titulo{
+    background-color: #8E24240D;
+    width: 8em;
+    margin: auto;
+    color: var(--text-h3-vermelho);
+    font-weight: 500;
+    font-family: var(--Inter);
+    font-size: 14px;
+    line-height: 20px;
+}
+.vagas__abertas-anuncio{
+    color: var( --color-escuro);
+    font-family: var(--Inter);
+    font-size: 36px;
+    line-height: 44px;
+    font-weight: 600;
+    margin-top: 20px;
+
+}
+.vagas__abertas-texto{
+    font-family: var(--Inter);
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--text-color);
+    line-height: 30px;
+}

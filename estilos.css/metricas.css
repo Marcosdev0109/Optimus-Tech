@@ -1,0 +1,46 @@
+
+.metricas-container{
+    display: flex;
+    justify-content:space-between;
+    text-align: center;
+    margin: 20px;
+    margin-top: 80px;
+    padding-left: 80px;
+}
+.card {
+    /* Estilos gerais para o card, como largura, altura, borda, etc. */
+
+    text-align: center;
+    width: 17em;
+
+  }
+  
+  .number {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--text-h3-vermelho);
+    text-align: center;
+    font-family: var(--Inter);
+    text-align: left;
+    margin: 0;
+  }
+  
+  .title {
+    font-size: 18px;
+    color: var(--color-escuro);
+    text-align: left;
+    margin: 10px 0px 10px 0px;
+    font-family: var(--Inter);
+    font-weight: 500;
+    line-height: 28px;
+
+  }
+  
+  .description {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--text-color);
+    text-align: left;
+    line-height: 24px;
+    font-family: var(--Inter);
+  }
